@@ -1,30 +1,25 @@
-# Sales Dashboard - Last Ten Years
+Data Analysis Dashboards 📊
 
-## Description
-This dashboard provides an analysis of sales data over the last ten years.  
-It includes multiple interactive filters and visualizations to help understand sales trends by city/country and customer language.
+This repository contains multiple dashboards created for various data analysis projects.
+The dashboards are built using different datasets and aim to visualize insights, trends, and KPIs in a clear and interactive way.
 
-## Data Source
-The data contains customer and sales information with the following key fields:  
-- Customer Language  
-- Customer Country  
-- Rating  
-- Item details (Seeders, Code, Category)  
-- Cost Price, Selling Price, Total Cost, Total Selling Price  
+Contents
+ • 8 dashboards covering various domains (sales, marketing, HR, finance, etc.)
+ • Files created using Power BI and other analysis tools
+ • Sample datasets (where available)
 
-## Dashboard Features
-- Red Alert Box: Displays important notifications or key messages.  
-- Filters:  
-  - Filter by city or country names.  
-  - Filter by customer language.  
-- Visualizations:  
-  - Contrast analysis of top cities.  
-  - Bar charts named “Quators” and “Quotogris”.  
-  - Language distribution chart.
+How to Use
+ 1. Download the .pbix file to your device.
+ 2. Open it using Power BI Desktop.
+ 3. Explore the visuals and filters to interact with the data.
 
-## How to Use
-- Use the filters on the side to refine the data displayed on the charts.  
-- Explore the trends over the past ten years by interacting with the visuals.
-
-## Author
-Budur Alhaili
+Projects Included
+ 1. Sales Performance Dashboard
+ 2. Marketing Campaign Analysis
+ 3. HR Employee Insights
+ 4. Financial Overview
+ 5. Customer Behavior Analysis
+ 6. Operations Efficiency
+ 7. Product Performance
+ 8. Market Trends Overview
+ 
